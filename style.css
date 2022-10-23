@@ -1,0 +1,73 @@
+
+/* alef-regular - latin */
+@font-face {
+    font-family: 'Alef';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/alef-v21-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Alef'),
+         url('./fonts/alef-v21-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./fonts/alef-v21-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/alef-v21-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/alef-v21-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/alef-v21-latin-regular.svg#Alef') format('svg'); /* Legacy iOS */
+  }
+
+  /* acme-regular - latin */
+@font-face {
+    font-family: 'Acme';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/acme-v18-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Acme'),
+         url('./fonts/acme-v18-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./fonts/acme-v18-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/acme-v18-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/acme-v18-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/acme-v18-latin-regular.svg#Acme') format('svg'); /* Legacy iOS */
+  }
+
+  /* inter-regular - latin */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/inter-v12-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Inter'),
+         url('./fonts/inter-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./fonts/inter-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/inter-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/inter-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/inter-v12-latin-regular.svg#Inter') format('svg'); /* Legacy iOS */
+  }
+
+
+  .nav-link{
+    color: white;
+    letter-spacing: 0.15vw;
+  }
+
+  h1 .head-1{
+    font-family: "Alef";
+  }
+
+  h1 .head-2{
+    font-family: "Acme";
+  }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
